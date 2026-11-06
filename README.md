@@ -1,4 +1,3 @@
-# 1minAI_Monitor
 # 1min.AI 크레딧 자동 모니터 (Windows Desktop App)
 
 `https://app.1min.ai/`에 자동 로그인한 후, `https://app.1min.ai/billing-usage` 페이지로 이동하여 **Credit(크레딧) 잔여 현황**을 눈으로 확인하고 기록하는 Windows 데스크톱 애플리케이션입니다.
